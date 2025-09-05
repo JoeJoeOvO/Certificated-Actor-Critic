@@ -3,16 +3,21 @@
 <!-- **HardNet** is a framework for constructing neural networks that inherently satisfy hard constraints without sacrificing model capacity.
 By appending a differentiable enforcement layer to the network's output, HardNet ensures that the outputs adhere to specified input-dependent constraints, enabling unconstrained optimization of network parameters using standard algorithms. -->
 
-This repository reproduces the algorithm called **Certificated Actor-Critic (CAC)** in our paper "[Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation](https://arxiv.org/pdf/2501.17424)."
+This repository reproduces the algorithm called **Certificated Actor-Critic (CAC)** in our paper "[Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation](https://ieeexplore.ieee.org/document/11127225)."
 
 If you use this work in your research, please cite:
 ```bibtex
-@article{xie2025certificated,
-  title={Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation},
+@INPROCEEDINGS{11127225,
   author={Xie, Junjun and Zhao, Shuhao and Hu, Liang and Gao, Huijun},
-  journal={arXiv preprint arXiv:2501.17424},
-  year={2025}
-}
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={5482-5488},
+  keywords={Learning systems;Navigation;Computational modeling;Reinforcement learning;Safety;Robots},
+  doi={10.1109/ICRA55743.2025.11127225}}
+
 
 ```
 <!-- 
