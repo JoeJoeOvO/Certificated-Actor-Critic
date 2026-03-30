@@ -1,4 +1,4 @@
-# [ICRA2025] Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation
+# [ICRA 2025] Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation
 
 
 
