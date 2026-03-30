@@ -2,7 +2,7 @@
 
 
 
-This repository reproduces the algorithm called **Certificated Actor-Critic (CAC)** in our paper "[Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation](https://ieeexplore.ieee.org/document/11127225)."
+This repository reproduces the algorithm called **Certificated Actor-Critic (CAC)** in our paper "[Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation](https://ieeexplore.ieee.org/document/11127225)".
 
 If you use this work in your research, please cite:
 ```bibtex
